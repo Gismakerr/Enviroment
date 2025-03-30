@@ -1,0 +1,26 @@
+name: gis_env_pro
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - geopandas
+  - gdal
+  - rasterio
+  - pyproj
+  - shapely
+  - fiona
+  - rtree
+  - contextily
+  - matplotlib
+  - cartopy
+  - folium
+  - xarray
+  - numpy
+  - pandas
+  - scipy
+  - jupyter
+  - ipykernel
+  - dask
+  - plotly
+  - leafmap
+  - ipyleaflet
